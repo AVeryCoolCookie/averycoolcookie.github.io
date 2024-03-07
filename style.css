@@ -8,3 +8,6 @@ h1 {
 h1 {
   color: gray
 }
+iframe {
+    outline: 2px solid black; /* Replace with your desired color and thickness */
+}
