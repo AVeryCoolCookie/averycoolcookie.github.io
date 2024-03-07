@@ -1,4 +1,4 @@
-# Skibidi Toilet
+# Games
 
 Just a little project. 😳
 For school. Maybe.
