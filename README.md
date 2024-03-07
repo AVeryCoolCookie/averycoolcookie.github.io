@@ -1,4 +1,4 @@
-# A Little thingy for a couple o' pals to play- Ahem, work with.
+# Skibidi Toilet
 
 Just a little project. 😳
 > For school. Maybe.
