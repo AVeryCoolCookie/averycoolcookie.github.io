@@ -1,1 +1,11 @@
-
+body {
+    background: linear-gradient(90deg, #1c87c9, #ffffff);
+}
+h1 {
+  color: red
+  text-align: center
+}
+h1 {
+  color: gray
+  text-align: center
+}
