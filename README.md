@@ -1,7 +1,6 @@
 # Games
 
 Just a little project. 😳
-faraday-retry
 
 
 <a href="https://htmlxm.github.io/h9/vex-4">Vex-4</a>
